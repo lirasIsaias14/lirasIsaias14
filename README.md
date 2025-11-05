@@ -61,5 +61,5 @@ Gosto de transformar ideias em soluções reais, com código limpo, organizado e
 
 ---
 
-⭐ *“A tecnologia move o mundo, e o conhecimento move a tecnologia.”*  
-— **Isaias Lira**
+ *“A tecnologia move o mundo, e o conhecimento move a tecnologia.”*  
+
