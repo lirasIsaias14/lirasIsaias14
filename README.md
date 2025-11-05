@@ -32,7 +32,7 @@ Gosto de transformar ideias em soluções reais, com código limpo, organizado e
 | **PostgreSQL** | ██████░░░░░░ 65% |
 | **Java** | ██████░░░░░░ 60% |
 
-> *(Barras de progresso visuais compatíveis com Markdown — funcionam perfeitamente no GitHub.)*
+> *(Barras de progresso em Markdown — compatíveis com o GitHub.)*
 
 ---
 
@@ -45,11 +45,27 @@ Gosto de transformar ideias em soluções reais, com código limpo, organizado e
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lirasIsaias14&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lirasIsaias14&layout=compact&langs_count=7&theme=github_dark" />
+</div>
+
+---
+
+## 🔥 Streak Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=lirasIsaias14&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+</div>
+
+---
+
+## 📅 Atividade Semanal
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lirasIsaias14&theme=github-dark&hide_border=true&area=true" />
 </div>
 
 ---
@@ -61,5 +77,10 @@ Gosto de transformar ideias em soluções reais, com código limpo, organizado e
 
 ---
 
+<div align="center">
+
+![visitors](https://komarev.com/ghpvc/?username=lirasIsaias14&label=Visitas%20ao%20perfil&color=0e75b6&style=flat)
+
  *“A tecnologia move o mundo, e o conhecimento move a tecnologia.”*  
 
+</div>
